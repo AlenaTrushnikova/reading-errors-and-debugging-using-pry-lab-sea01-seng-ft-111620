@@ -2,7 +2,7 @@
 
 
 def generate_star_date
-  random(100000) + 400000) / 10.0
+  rand(100000) + 400000) / 10.0
 end
 
 
